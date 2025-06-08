@@ -10,7 +10,7 @@
 🛠️ Tech Stack:
 ```python
 Languages: Python, JavaScript, SQL
-Frameworks: Django, FastAPI, React (learning)
+Frameworks: Django, FastAPI, React 
 Databases: PostgreSQL, SQLite, MySQL
 Tools: Git, Docker, Postman, VS Code
 ```
