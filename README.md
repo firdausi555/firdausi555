@@ -23,6 +23,10 @@ Tools: Git, Docker, Postman, VS Code
 📚 I'm currently preparing for:
 - 🧠 Interviews (DSA, OOP, SQL, Django, FastAPI, System Design)
 
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sabilfirdausi?theme=dark&font=Karla&ext=heatmap)
+
 
 📫 Let's connect:
 - 🧠 LeetCode: https://leetcode.com/sabilfirdausi/
