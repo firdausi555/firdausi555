@@ -5,7 +5,7 @@
 
 💼 Currently:  
 - 🧠 Working on full-stack projects using **Python**, **Django**, and **FastAPI**
-- 🌱 Learning **React**, **Low-Level Design (LLD)**, and **System Design**
+- 🌱 Learning  **Low-Level Design (LLD)**, and **DSA**
 
 🛠️ Tech Stack:
 ```python
@@ -22,7 +22,7 @@ Tools: Git, Docker, Postman, VS Code
 
 📚 I'm currently preparing for:
 - 🧠 Interviews (DSA, OOP, SQL, Django, FastAPI, System Design)
-- 🎓 MS in Computer Science (Spring/Fall 2026)
+
 
 📫 Let's connect:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sabil-firdausi/)
