@@ -25,7 +25,7 @@ Tools: Git, Docker, Postman, VS Code
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sabilfirdausi?theme=dark&font=Karla&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/sabilfirdausi80?theme=dark&font=Karla&ext=heatmap)
 
 
 📫 Let's connect:
