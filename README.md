@@ -25,6 +25,7 @@ Tools: Git, Docker, Postman, VS Code
 
 
 📫 Let's connect:
+- 🧠 LeetCode: https://leetcode.com/sabilfirdausi/
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sabil-firdausi/)
 - 💌 Email: sabilfirdausi@gmail.com
 
