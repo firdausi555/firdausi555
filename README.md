@@ -18,7 +18,7 @@ Tools: Git, Docker, Postman, VS Code
 🧪 Featured Projects:
 - 🔗 **[AI Chrome Extension for Coding Platforms](https://github.com/firdausi555/AiChromeExtensionFor_LeetCode_and_GFG)** – AI-powered help on LeetCode & GFG
 - 🧾 **[Receipt OCR API (FastAPI)](https://github.com/firdausi555/receipt_checker)** – Upload and parse receipts from PDFs
-- 🤖 **[Weed Plant Detection (YOLOv3)](https://github.com/firdausi555/weed_detection_yolov3)** – Real-time object detection in crops
+- 🤖 **[Serializers and Deserializers](DJango(https://github.com/firdausi555/SerializerDeserializer)** – Serializers and Deserializers
 
 📚 I'm currently preparing for:
 - 🧠 Interviews (DSA, OOP, SQL, Django, FastAPI, System Design)
