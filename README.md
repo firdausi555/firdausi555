@@ -1,7 +1,7 @@
 
 # Hi there, I'm Sabil Firdausi 👋
 
-🚀I’m a Software Engineer with a passion for building innovative and efficient solutions. With experience in Python, C++, and JavaScript, I’m skilled in both front-end and back-end development, leveraging frameworks like Django,React, Ruby on Rails , and Node.js to create dynamic web applications.
+🚀I’m a Software Engineer with a passion for building innovative and efficient solutions. With almost 2 years of experience in Python, C++, and JavaScript, I’m skilled in both front-end and back-end development, leveraging frameworks like Django,React, Ruby on Rails , and Node.js to create dynamic web applications.
 
 I have a strong background in working with databases such as MySQL, PostgreSQL, and MongoDB, ensuring seamless data management and performance optimization. My approach is rooted in best practices, with a focus on Agile and Scrum methodologies for collaborative and timely project delivery.
 
