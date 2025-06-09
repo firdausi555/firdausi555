@@ -7,9 +7,10 @@ I have a strong background in working with databases such as MySQL, PostgreSQL, 
 
 I’m always eager to learn and stay up-to-date with the latest technology trends, and I strive to write clean, maintainable code. Whether working independently or in a team, I’m committed to delivering high-quality software solutions that meet user needs and exceed expectations.
 
-Let’s connect! 🚀
+
 💼 Currently:  
-- 🧠 Working on full-stack projects using **Python**, **Django**, and **FastAPI**
+- 🧠 working with an organization as a backend developer 
+- 📈 Working on full-stack projects using **Python**, **Django**, and **FastAPI**
 - 🌱 Learning  **Low-Level Design (LLD)**, and **DSA**
 
 🛠️ Tech Stack:
