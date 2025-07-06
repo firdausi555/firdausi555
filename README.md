@@ -9,7 +9,7 @@ I’m always eager to learn and stay up-to-date with the latest technology trend
 
 
 💼 Currently:  
-- 🧠 working with an organization as a backend developer 
+- 🧠 working as a backend developer 
 - 📈 Working on full-stack projects using **Python**, **Django**, and **FastAPI**
 - 🌱 Learning  **Low-Level Design (LLD)**, and **DSA**
 
